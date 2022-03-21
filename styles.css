@@ -33,11 +33,15 @@ body {
 h1 {
     color: white;
     padding: 20px 20px 0px 20px;
+    font-family: 'Cormorant Garamond', serif;
 }
 
-h2 {
+p {
     color: white;
-    padding: 20px 20px 0px 20px;
+    padding: 20px 20px 20px 20px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 22px;
+    
 }
 
 #btn {
